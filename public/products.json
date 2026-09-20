@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Double Patty Burger",
+        "price": "$9.67",
+        "image": "images/burger.png"
+    },
+    {
+        "id": 2,
+        "name": "Veggie Pizza",
+        "price": "$10.99",
+        "image": "images/pizza.png"
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken",
+        "price": "$13.45",
+        "image": "images/fried-chicken.png"
+    },
+    {
+        "id": 4,
+        "name": "Cheese veg Grilled Sandwich",
+        "price": "$7.50",
+        "image": "images/cheese-veg-grilled-sandwich.png"
+    },
+    {
+        "id": 5,
+        "name": "Sub Sandwich",
+        "price": "$6.99",
+        "image": "images/sandwich.png"
+    },
+    {
+        "id": 6,
+        "name": "Tiramisu Cake Slice",
+        "price": "$9.45",
+        "image": "images/tiramisu-cake-slice.png"
+    },
+    {
+        "id": 7,
+        "name": "Italian Spaghetti",
+        "price": "$7.65",
+        "image": "images/spaghetti.png"
+    },
+    {
+        "id": 8,
+        "name": "Spring Roll",
+        "price": "$9.31",
+        "image": "images/spring-roll.png"
+    }
+]

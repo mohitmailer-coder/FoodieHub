@@ -1,0 +1,13 @@
+{
+  "name": "foodiehub",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "server.js",
+  "engines": { "node": ">=22.5" },
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
